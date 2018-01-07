@@ -1,0 +1,31 @@
+Gmail
+logmenowapp@gmail.com
+queen@123
+Github
+logmenowapp@gmail.com
+queen@123
+
+
+Download and install visual studio code
+If Githubdesktop is not configured, then configure it
+download NodeJS, NPM and Angular CLI follow https://www.youtube.com/watch?v=FVPGJHinItI
+Install .net core sdk https://www.microsoft.com/net/download/windows
+
+Example for VS code register and login
+https://www.pointblankdevelopment.com.au/blog/113/aspnet-core-20-angular-24-user-registration-and-login-tutorial-example
+
+
+
+To ceate a new project
+	ng new hello-world
+After the project is created, move into the project folder
+	cd hello-world
+To start the server
+	ng serve
+To create a new component
+	ng g c test
+	--g generate
+	--c component
+	--test name of component
+
+

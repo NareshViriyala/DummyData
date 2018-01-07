@@ -1,0 +1,35 @@
+git clone url
+git status
+git add filename
+git add -A
+git commit -m "commit text"
+git push
+git pull
+
+
+Gmail
+logmenowapp@gmail.com
+queen@123
+Github
+logmenowapp@gmail.com
+queen@123
+AWS
+logmenowapp@gmail.com
+queen@123
+AWS Account Name: logmenowapp
+
+
+Public DNS	ec2-13-59-139-148.us-east-2.compute.amazonaws.com
+User name	Administrator
+Password	
+d5GFYHvY(N
+
+
+sql logins
+lmnweblogin\India@123
+sa\queen@123
+
+Visual Studio License Keys
+Enterprise Version 
+2XNFG-KFHR8-QV3CP-3W6HT-683CH
+HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
