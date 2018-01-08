@@ -1,0 +1,21 @@
+Public DNS	ec2-54-157-237-224.compute-1.amazonaws.com
+User name	Administrator
+Password	A-?b$sHJMM
+
+SQL -- ec2-54-157-237-224.compute-1.amazonaws.com
+sa -- India@123
+svciisacc -- terriblepassword@123
+Database - Logmenow
+
+-User login setup for the first time
+-If update is available, show popup to upgrade
+
+MSDN
+naresh.viriyala@cotiviti.com
+domain password
+
+
+Token based authentication in ASP.NET Web API
+http://www.dotnetawesome.com/2016/09/token-based-authentication-in-webapi.html
+https://medium.com/@lugrugzo/asp-net-core-2-0-webapi-jwt-authentication-with-identity-mysql-3698eeba6ff8
+http://www.c-sharpcorner.com/article/creating-web-api-with-asp-net-core-using-visual-studio-code/
