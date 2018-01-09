@@ -19,3 +19,4 @@ Token based authentication in ASP.NET Web API
 http://www.dotnetawesome.com/2016/09/token-based-authentication-in-webapi.html
 https://medium.com/@lugrugzo/asp-net-core-2-0-webapi-jwt-authentication-with-identity-mysql-3698eeba6ff8
 http://www.c-sharpcorner.com/article/creating-web-api-with-asp-net-core-using-visual-studio-code/
+testing
