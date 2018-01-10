@@ -11,6 +11,8 @@ If Githubdesktop is not configured, then configure it
 download NodeJS, NPM and Angular CLI follow https://www.youtube.com/watch?v=FVPGJHinItI
 Install .net core sdk https://www.microsoft.com/net/download/windows
 
+ng -v
+
 Example for VS code register and login
 https://www.pointblankdevelopment.com.au/blog/113/aspnet-core-20-angular-24-user-registration-and-login-tutorial-example
 

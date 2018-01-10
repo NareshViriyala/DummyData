@@ -1,0 +1,14 @@
+1. To create a new dot not web api project
+a. 1. mkdir projectname
+   2. cd projectname
+   3. dotnet new webapi
+2. to build the ptoject
+a. in the terminal, press Ctil+Shift+B
+3. to run the project
+a. F5
+
+
+1. To create a new angular project
+a. ng new projectname
+
+
