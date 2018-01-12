@@ -10,5 +10,82 @@ a. F5
 
 1. To create a new angular project
 a. ng new projectname
+2. To run unit tests
+a. Be in the project folder and type ng test
+3. To run end to end test
+a. type ng e2e
+4. Create project without unittest files
+a . ng new projname -st
+ or ng new projname --skip-tests
+5. Create project without ng node files
+a . ng new projname -si
+ or ng new projname --skip-installs
 
+
+
+6. To generate a component
+a. ng generate component compname
+or ng g c compname
+7. To generate a component in a different folder
+a. ng g c src/app/xyz "specify the path"
+8. TO generate a component in app folder
+a. ng g c compname --flat
+
+9. To generate a service
+a. ng generate service servicename
+or ng g s servicename
+10. To generate a service and register it
+a. ng g s servicename --module=app.module
+or ng g s servicename -m=app.module
+
+11. To generate a module
+a. ng g m modulename (by default this module is not imported in the root app)
+12. To generate a module and import it
+a. ng g m module -module=app.module
+
+13. To include bootstrap
+a. step 1: install bootstrap from terminal
+	a. npm install bootstrap@3 --save (bootstrat@3 is the latest version currently)
+   step 2: check bootstrap is installed in "node_modules" folder
+   step 3: configure .angular-cli.json file
+        a. "styles": [
+	      "../node_modules/bootstrap/dist/css/bootstrap.min.css",
+	      "styles.css"]
+
+14. Create angular project with routing option
+a.  ng new projname --routing
+
+
+Interpolation
+
+<img src = {{ imagepath }} />
+
+Property binding
+<img [src] = 'imagepath'/>
+
+canonical variation
+<span bind-innerHtml='pageHeader'></span>
+
+imagepath = 'c:\user\img.png'
+
+For non string values, always use property binding.
+<button [disabled]='IsDisables' />
+isDisabled=true;
+
+
+<h1>
+    {{getFullName()}}!
+  </h1>
+export class AppComponent {
+  
+	pageHeader = 'Employee details';
+
+  
+	getFullName():string{
+    
+		return this.pageHeader;
+  
+	}
+
+}
 

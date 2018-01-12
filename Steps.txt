@@ -10,6 +10,7 @@ Download and install visual studio code
 If Githubdesktop is not configured, then configure it
 download NodeJS, NPM and Angular CLI follow https://www.youtube.com/watch?v=FVPGJHinItI
 Install .net core sdk https://www.microsoft.com/net/download/windows
+Install tslint
 
 ng -v
 
