@@ -89,3 +89,10 @@ export class AppComponent {
 
 }
 
+
+15. to publish webapi project
+a. 1. dotnet build
+   2. rmdir /s /q "C:\NareshV\WebBits\webapi\"
+   3. dotnet publish --framework netcoreapp2.0 --output "C:\NareshV\WebBits\webapi" --configuration Release
+
+
