@@ -96,3 +96,7 @@ a. 1. dotnet build
    3. dotnet publish --framework netcoreapp2.0 --output "C:\NareshV\WebBits\webapi" --configuration Release
 
 
+rmdir /s /q "C:\Naresh\WebBits\webapi\"
+dotnet publish --framework netcoreapp2.0 --output "C:\Naresh\WebBits\webapi" --configuration Release
+
+
