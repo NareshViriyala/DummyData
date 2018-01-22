@@ -39,6 +39,9 @@ https://weblog.west-wind.com/posts/2016/Jun/06/Publishing-and-Running-ASPNET-Cor
 --to configure jquery to support bootstrap
 https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a
 
+--login popup
+https://embed.plnkr.co/plunk/UvIxFe
+
 
 
 
