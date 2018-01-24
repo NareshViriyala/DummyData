@@ -42,6 +42,9 @@ https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3
 --login popup
 https://embed.plnkr.co/plunk/UvIxFe
 
+--Halfing error
+https://stackoverflow.com/questions/32300578/how-to-remove-error-about-glyphicons-halflings-regular-woff2-not-found
+
 
 
 

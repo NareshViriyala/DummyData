@@ -1,8 +1,8 @@
-Public DNS	ec2-54-157-237-224.compute-1.amazonaws.com
+Public DNS	ec2-54-91-0-254.compute-1.amazonaws.com -- Old ec2-54-157-237-224.compute-1.amazonaws.com
 User name	Administrator
 Password	A-?b$sHJMM
 
-SQL -- ec2-54-157-237-224.compute-1.amazonaws.com
+SQL -- ec2-54-91-0-254.compute-1.amazonaws.com -- old ec2-54-157-237-224.compute-1.amazonaws.com
 sa -- India@123
 svciisacc -- terriblepassword@123
 Database - Logmenow

@@ -1,3 +1,28 @@
+Public DNS	ec2-54-91-0-254.compute-1.amazonaws.com -- Old ec2-54-157-237-224.compute-1.amazonaws.com
+User name	Administrator
+Password	A-?b$sHJMM
+
+SQL -- ec2-54-91-0-254.compute-1.amazonaws.com -- old ec2-54-157-237-224.compute-1.amazonaws.com
+sa -- India@123
+svciisacc -- terriblepassword@123
+Database - Logmenow
+
+-User login setup for the first time
+-If update is available, show popup to upgrade
+
+MSDN
+naresh.viriyala@cotiviti.com
+domain password
+
+
+Token based authentication in ASP.NET Web API
+http://www.dotnetawesome.com/2016/09/token-based-authentication-in-webapi.html
+https://medium.com/@lugrugzo/asp-net-core-2-0-webapi-jwt-authentication-with-identity-mysql-3698eeba6ff8
+http://www.c-sharpcorner.com/article/creating-web-api-with-asp-net-core-using-visual-studio-code/
+testing
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 1. To create a new dot not web api project
 a. 1. mkdir projectname
    2. cd projectname
@@ -98,5 +123,98 @@ a. 1. dotnet build
 
 rmdir /s /q "C:\Naresh\WebBits\webapi\"
 dotnet publish --framework netcoreapp2.0 --output "C:\Naresh\WebBits\webapi" --configuration Release
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+git clone url
+git status
+git add filename
+git add -A
+git commit -m "commit text"
+git push
+git pull
+
+
+Gmail
+logmenowapp@gmail.com
+queen@123
+Github
+logmenowapp@gmail.com
+queen@123
+AWS
+logmenowapp@gmail.com
+queen@123
+AWS Account Name: logmenowapp
+
+
+Public DNS	ec2-13-59-139-148.us-east-2.compute.amazonaws.com
+User name	Administrator
+Password	
+d5GFYHvY(N
+
+
+sql logins
+lmnweblogin\India@123
+sa\queen@123
+
+Visual Studio License Keys
+Enterprise Version 
+2XNFG-KFHR8-QV3CP-3W6HT-683CH
+HM6NR-QXX7C-DFW2Y-8B82K-WTYJV
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+Gmail
+logmenowapp@gmail.com
+queen@123
+Github
+logmenowapp@gmail.com
+queen@123
+
+
+Download and install visual studio code
+If Githubdesktop is not configured, then configure it
+download NodeJS, NPM and Angular CLI follow https://www.youtube.com/watch?v=FVPGJHinItI
+Install .net core sdk https://www.microsoft.com/net/download/windows
+Install tslint
+
+ng -v
+
+Example for VS code register and login
+https://www.pointblankdevelopment.com.au/blog/113/aspnet-core-20-angular-24-user-registration-and-login-tutorial-example
+
+
+
+To ceate a new project
+	ng new hello-world
+After the project is created, move into the project folder
+	cd hello-world
+To start the server
+	ng serve
+To create a new component
+	ng g c test
+	--g generate
+	--c component
+	--test name of component
+
+--to host the wep api
+
+https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?tabs=aspnetcore2x
+https://weblog.west-wind.com/posts/2016/Jun/06/Publishing-and-Running-ASPNET-Core-Applications-with-IIS
+
+--to configure jquery to support bootstrap
+https://medium.com/codingthesmartway-com-blog/using-bootstrap-with-angular-c83c3cee3f4a
+
+--login popup
+https://embed.plnkr.co/plunk/UvIxFe
+
+--Halfing error
+https://stackoverflow.com/questions/32300578/how-to-remove-error-about-glyphicons-halflings-regular-woff2-not-found
+
+
+
+
+
+
 
 
